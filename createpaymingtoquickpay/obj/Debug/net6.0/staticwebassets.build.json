@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IaAbwogIQvqqyLdauItZGbp+p3nY2+YzmXEA4xZzMRs=",
+  "Source": "createpaymingtoquickpay",
+  "BasePath": "_content/createpaymingtoquickpay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
